@@ -1,0 +1,9 @@
+review of last session : 
+
+1- install Git
+2- check version by "git -v"
+3- set a global user name and in your git " git config --glibal user.name "test" "
+4- set a global user name and email in your git " git config --glibal user.email "test@gamil.com" "
+5- Add git to your project "git init"
+6- Add file to staging area "git add "file.name" "
+7- Add file from staging area to git repo "git commit "file.name" "
